@@ -3,7 +3,7 @@
 Description:
 
 
-Create users.py is a python script that is desinged to create user accunts and input user infromtion the three imports called at the top of the function os, re , sys, each are pivotal os is for running system commands, re is used for regualr expressions in the case of this lab it was used for the match to check if the input line has a #. Sys is used to read the input files. # in the fucntion is used to show that the line is a comment.
+Create users.py is a python script that is desinged to create user accunts and input user infromtion the three imports called at the top of the function os, re , sys, each are pivotal os is for running system commands, re is used for regualr expressions in the case of this lab it was used for the match to check if the input line has a #. Sys is used to read the input files. # in the fucntion indicates that we want to skip that line. 
 
 
 
